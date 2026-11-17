@@ -1,4 +1,8 @@
 # Campus Event Calendar & RSVP System
+Team :
+Karanam Srujana
+KP Preetika Setty
+K Prashanti
 
 A responsive campus-event management web application inspired by the clean, modular structure of the referenced SongNet repository.
 
